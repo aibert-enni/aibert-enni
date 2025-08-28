@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">Python Backend developer</h3>
 
-- 🔭 I’m currently working on [Fastapi Chat](https://github.com/aibert-enni/fastapi-monorepo)
+- 🔭 I’m currently working on [Fastapi Monorepo](https://github.com/aibert-enni/fastapi-monorepo)
 
 - 🌱 I’m currently learning **Fastapi**
 
